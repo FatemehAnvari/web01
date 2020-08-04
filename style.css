@@ -1,0 +1,38 @@
+body{background-color: #8C416A;
+  align-items: center;
+
+
+}
+
+#main{flex: 10px;
+
+  align-content: center;
+  align-items: center;
+  width: 1200px;
+  height: 900px;
+  background:#D6D1F5 ;
+  padding: 50px;
+  margin: 20px;}
+
+h3{text-align: center; padding-top: 40px; font-size: 18px; }
+h1{text-align: center;padding-top: 100px;}
+p{font-size: 22px;}
+
+#form{align-self: center;}
+@font-face {
+    font-family: 'Yekan';
+    src: url('https://cdn.fontcdn.ir/Font/Persian/Yekan/Yekan.eot');
+    src: url('https://cdn.fontcdn.ir/Font/Persian/Yekan/Yekan.eot?#iefix') format('embedded-opentype'),
+		 url('https://cdn.fontcdn.ir/Font/Persian/Yekan/Yekan.woff') format('woff'),
+		 url('https://cdn.fontcdn.ir/Font/Persian/Yekan/Yekan.ttf') format('truetype');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'Yekan';
+    src: url('https://cdn.fontcdn.ir/Font/Persian/Yekan/Yekan-Bold.eot');
+    src: url('https://cdn.fontcdn.ir/Font/Persian/Yekan/Yekan-Bold.eot?#iefix') format('embedded-opentype'),
+		 url('https://cdn.fontcdn.ir/Font/Persian/Yekan/Yekan-Bold.woff') format('woff'),
+		 url('https://cdn.fontcdn.ir/Font/Persian/Yekan/Yekan-Bold.ttf') format('truetype');
+    font-weight: bold;
+}
